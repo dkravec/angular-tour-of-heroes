@@ -1,3 +1,12 @@
+## Angular - Tour of heros
+Created by Daniel Kravec, on September 23, 2023
+
+created by following tutorial at: https://angular.io/tutorial/tour-of-heroescd 
+
+
+
+
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
